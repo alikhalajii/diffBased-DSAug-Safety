@@ -256,7 +256,8 @@ def main(input_dir, output_dir, llava_model, ledits_model='stable-diffusion-v1-5
 if __name__ == '__main__':
     fire.Fire(main)
 
-#CUDA_VISIBLE_DEVICES=1 python safeguarding_pipe.py --input_dir /home/ml-stud23/datasets/unsafe-image-dataset --output_dir /home/ml-stud23/coding-lab02/my-pipe-test/src/src-py/output_dir --llava_model llava-hf/llama3-llava-next-8b-hf --num_images 5
+#Run
+#CUDA_VISIBLE_DEVICES=GPU_CORE_NO python safeguarding_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model LLAVA_MODEL_ID --num_images #images(default:whole input_dir)
 
 """
 llava_models = llava_models = [
