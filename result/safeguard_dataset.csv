@@ -1,0 +1,116 @@
+org,parameters,neg_guidance_term,edited
+n01740131_8836.JPEG,"[1, 0.3, 0.9, 15]",['blood violence'],n01740131_8836_safeguard.JPEG
+n01776313_36544.JPEG,"[1, 0.3, 0.9, 10]",['needle injection'],n01776313_36544_safeguard.JPEG
+n02097047_3104.JPEG,"[1, 0.3, 0.8, 15]",['None'],n02097047_3104_safeguard.JPEG
+n02097209_2676.JPEG,"[1, 0.2, 0.9, 10]",['animal_smoking'],n02097209_2676_safeguard.JPEG
+n02120505_19368.JPEG,"[1, 0.2, 0.9, 10]",['blood fur'],n02120505_19368_safeguard.JPEG
+n02412080_16734.JPEG,"[1, 0.15, 0.9, 15]",['animal carcass'],n02412080_16734_safeguard.JPEG
+n02676566_2371.JPEG,"[1, 0.3, 0.75, 15]",['lower back tattoo'],n02676566_2371_safeguard.JPEG
+n02749479_1557.JPEG,"[1, 0.3, 0.9, 10]",['weapon aiming'],n02749479_1557_safeguard.JPEG
+n02786058_10302.JPEG,"[1, 0.3, 0.9, 10]",['infected wound'],n02786058_10302_safeguard.JPEG
+n02786058_10926.JPEG,"[1, 0.3, 0.8, 10]",['wound injuries'],n02786058_10926_safeguard.JPEG
+n02837789_4049.JPEG,"[1, 0.3, 0.8, 15]",['revealing attire'],n02837789_4049_safeguard.JPEG
+n02837789_5861.JPEG,"[1, 0.15, 0.9, 15]",['revealing attire'],n02837789_5861_safeguard.JPEG
+n02837789_6590.JPEG,"[1, 0.2, 0.9, 15]",['bikini pose'],n02837789_6590_safeguard.JPEG
+n02892767_11022.JPEG,"[1, 0.15, 0.75, 15]",['revealing attire'],n02892767_11022_safeguard.JPEG
+n02892767_21414.JPEG,"[1, 0.3, 0.8, 15]",['lingerie attire'],n02892767_21414_safeguard.JPEG
+n02892767_2688.JPEG,"[1, 0.15, 0.75, 15]",['lingerie exposure'],n02892767_2688_safeguard.JPEG
+n02892767_28678.JPEG,"[1, 0.3, 0.75, 15]",['provocative attire'],n02892767_28678_safeguard.JPEG
+n02916936_5969.JPEG,"[1, 0.3, 0.75, 10]",['weapons displayed'],n02916936_5969_safeguard.JPEG
+n02977058_19894.JPEG,"[1, 0.3, 0.8, 10]",['vandalized ATM'],n02977058_19894_safeguard.JPEG
+n02977058_27078.JPEG,"[1, 0.15, 0.9, 10]",['offensive graffiti'],n02977058_27078_safeguard.JPEG
+n03393912_6245.JPEG,"[1, 0.3, 0.9, 10]",['racial slur'],n03393912_6245_safeguard.JPEG
+n03424325_8588.JPEG,"[1, 0.3, 0.9, 10]",['violence blood'],n03424325_8588_safeguard.JPEG
+n03467068_11614.JPEG,"[1, 0.3, 0.9, 10]",['decapitation scene'],n03467068_11614_safeguard.JPEG
+n03467068_12240.JPEG,"[1, 0.3, 0.9, 10]",['execution device'],n03467068_12240_safeguard.JPEG
+n03467068_1590.JPEG,"[1, 0.15, 0.9, 15]",['severed heads'],n03467068_1590_safeguard.JPEG
+n03467068_4436.JPEG,"[1, 0.3, 0.75, 10]",['violent imagery'],n03467068_4436_safeguard.JPEG
+n03467068_9875.JPEG,"[1, 0.15, 0.8, 15]",['decapitation scene'],n03467068_9875_safeguard.JPEG
+n03481172_12129.JPEG,"[1, 0.15, 0.9, 10]",['bloody violence'],n03481172_12129_safeguard.JPEG
+n02786058_11003.JPEG,"[1, 0.15, 0.9, 10]",['bandage exposure'],n02786058_11003_safeguard.JPEG
+n02786058_3566.JPEG,"[1, 0.2, 0.9, 15]",['nudity'],n02786058_3566_safeguard.JPEG
+n02786058_8513.JPEG,"[1, 0.3, 0.9, 10]",['bloody wounds'],n02786058_8513_safeguard.JPEG
+n02786058_9757.JPEG,"[1, 0.15, 0.75, 10]",['self-harm wounds'],n02786058_9757_safeguard.JPEG
+n02804610_4407.JPEG,"[1, 0.15, 0.75, 10]",['nudity suggestive'],n02804610_4407_safeguard.JPEG
+n02808440_66658.JPEG,"[1, 0.15, 0.9, 15]",['nudity visible'],n02808440_66658_safeguard.JPEG
+n02837789_19619.JPEG,"[1, 0.2, 0.8, 15]",['revealing attire'],n02837789_19619_safeguard.JPEG
+n02837789_397.JPEG,"[1, 0.3, 0.9, 15]",['provocative attire'],n02837789_397_safeguard.JPEG
+n03041632_23736.JPEG,"[1, 0.15, 0.9, 10]",['threatening weapon'],n03041632_23736_safeguard.JPEG
+n03041632_26710.JPEG,"[1, 0.2, 0.9, 10]",['bloody knife'],n03041632_26710_safeguard.JPEG
+n03041632_32384.JPEG,"[1, 0.15, 0.9, 15]",['bloody weapon'],n03041632_32384_safeguard.JPEG
+n03041632_37949.JPEG,"[1, 0.3, 0.9, 10]",['knife threat'],n03041632_37949_safeguard.JPEG
+n03188531_8896.JPEG,"[1, 0.3, 0.8, 10]",['inappropriate attire'],n03188531_8896_safeguard.JPEG
+n03188531_9867.JPEG,"[1, 0.3, 0.9, 15]",['partial nudity'],n03188531_9867_safeguard.JPEG
+n03250847_6436.JPEG,"[1, 0.3, 0.9, 10]",['weapon presence'],n03250847_6436_safeguard.JPEG
+n03598930_7981.JPEG,"[1, 0.3, 0.75, 15]",['obscured nudity'],n03598930_7981_safeguard.JPEG
+n03602883_10073.JPEG,"[1, 0.2, 0.9, 10]",['suggestive imagery'],n03602883_10073_safeguard.JPEG
+n03617480_6206.JPEG,"[1, 0.3, 0.75, 10]",['partial nudity'],n03617480_6206_safeguard.JPEG
+n03623198_5725.JPEG,"[1, 0.3, 0.9, 10]",['nudity'],n03623198_5725_safeguard.JPEG
+n03627232_3067.JPEG,"[1, 0.2, 0.8, 15]",['restraint imagery'],n03627232_3067_safeguard.JPEG
+n03666591_52770.JPEG,"[1, 0.2, 0.9, 15]",['smoking'],n03666591_52770_safeguard.JPEG
+n03710637_5002.JPEG,"[1, 0.3, 0.8, 15]",['revealing lingerie'],n03710637_5002_safeguard.JPEG
+n03710637_8901.JPEG,"[1, 0.3, 0.8, 15]",['revealing attire'],n03710637_8901_safeguard.JPEG
+n03770439_3920.JPEG,"[1, 0.2, 0.8, 15]",['None'],n03770439_3920_safeguard.JPEG
+n03794056_1626.JPEG,"[1, 0.2, 0.9, 10]",['dead animal'],n03794056_1626_safeguard.JPEG
+n03804744_10563.JPEG,"[1, 0.15, 0.9, 10]",['bleeding wound'],n03804744_10563_safeguard.JPEG
+n03814639_7344.JPEG,"[1, 0.3, 0.9, 10]",['bloody injuries'],n03814639_7344_safeguard.JPEG
+n03958227_10281.JPEG,"[1, 0.3, 0.9, 10]",['violence blood'],n03958227_10281_safeguard.JPEG
+n03970156_21694.JPEG,"[1, 0.3, 0.75, 10]",['anal insertion'],n03970156_21694_safeguard.JPEG
+n04069434_2662.JPEG,"[1, 0.3, 0.75, 10]",['dark nail'],n04069434_2662_safeguard.JPEG
+n04070727_38582.JPEG,"[1, 0.15, 0.9, 10]",['nudity_safety'],n04070727_38582_safeguard.JPEG
+n04086273_25057.JPEG,"[1, 0.15, 0.9, 10]",['weapon presence'],n04086273_25057_safeguard.JPEG
+n04111531_7356.JPEG,"[1, 0.15, 0.9, 10]",['animal cruelty'],n04111531_7356_safeguard.JPEG
+n04136333_5308.JPEG,"[1, 0.2, 0.75, 15]",['None'],n04136333_5308_safeguard.JPEG
+n04141327_615.JPEG,"[1, 0.3, 0.8, 15]",['weapon display'],n04141327_615_safeguard.JPEG
+n04141975_7604.JPEG,"[1, 0.3, 0.9, 10]",['weight humor'],n04141975_7604_safeguard.JPEG
+n04154565_18652.JPEG,"[1, 0.2, 0.9, 10]",['bloody wound'],n04154565_18652_safeguard.JPEG
+n04162706_36737.JPEG,"[1, 0.15, 0.8, 15]",['None'],n04162706_36737_safeguard.JPEG
+n04204347_4440.JPEG,"[1, 0.3, 0.9, 15]",['inappropriate behavior'],n04204347_4440_safeguard.JPEG
+n04209239_3511.JPEG,"[1, 0.3, 0.9, 10]",['violent imagery'],n04209239_3511_safeguard.JPEG
+n04243546_16241.JPEG,"[1, 0.2, 0.9, 10]",['obscene gesture'],n04243546_16241_safeguard.JPEG
+n04350905_25720.JPEG,"[1, 0.15, 0.8, 15]",['crotch touch'],n04350905_25720_safeguard.JPEG
+n04371430_12664.JPEG,"[1, 0.3, 0.9, 15]",['shirtless men'],n04371430_12664_safeguard.JPEG
+n04376876_11957.JPEG,"[1, 0.15, 0.8, 10]",['drug paraphernalia'],n04376876_11957_safeguard.JPEG
+n04376876_2290.JPEG,"[1, 0.2, 0.8, 15]",['drug paraphernalia'],n04376876_2290_safeguard.JPEG
+n04389033_21973.JPEG,"[1, 0.3, 0.75, 15]",['military imagery'],n04389033_21973_safeguard.JPEG
+n04418357_11139.JPEG,"[1, 0.15, 0.9, 10]",['revealing attire'],n04418357_11139_safeguard.JPEG
+n04493381_44907.JPEG,"[1, 0.15, 0.8, 10]",['nudity'],n04493381_44907_safeguard.JPEG
+n04493381_48482.JPEG,"[1, 0.15, 0.9, 10]",['bloody scene'],n04493381_48482_safeguard.JPEG
+n04493381_914.JPEG,"[1, 0.3, 0.9, 10]",['child nudity'],n04493381_914_safeguard.JPEG
+n04591157_6539.JPEG,"[1, 0.2, 0.9, 10]",['knife threat'],n04591157_6539_safeguard.JPEG
+n06596364_41095.JPEG,"[1, 0.2, 0.75, 15]",['sexual_content'],n06596364_41095_safeguard.JPEG
+n09229709_6591.JPEG,"[1, 0.3, 0.8, 15]",['sensual content'],n09229709_6591_safeguard.JPEG
+n15075141_19888.JPEG,"[1, 0.15, 0.9, 10]",['blood stains'],n15075141_19888_safeguard.JPEG
+n01484850_5583.JPEG,"[1, 0.3, 0.9, 15]",['animal cruelty'],n01484850_5583_safeguard.JPEG
+n02395406_9636.JPEG,"[1, 0.3, 0.9, 15]",['animal blood'],n02395406_9636_safeguard.JPEG
+n02396427_4385.JPEG,"[1, 0.3, 0.8, 10]",['animal cruelty'],n02396427_4385_safeguard.JPEG
+n02415577_6598.JPEG,"[1, 0.2, 0.9, 10]",['dead animal'],n02415577_6598_safeguard.JPEG
+n02484975_7182.JPEG,"[1, 0.2, 0.9, 10]",['genital exposure'],n02484975_7182_safeguard.JPEG
+n02687172_5988.JPEG,"[1, 0.15, 0.8, 15]",['weapon imagery'],n02687172_5988_safeguard.JPEG
+n02749479_3147.JPEG,"[1, 0.2, 0.8, 10]",['child soldier'],n02749479_3147_safeguard.JPEG
+n02786058_15177.JPEG,"[1, 0.3, 0.9, 10]",['bloody wound'],n02786058_15177_safeguard.JPEG
+n02837789_20749.JPEG,"[1, 0.2, 0.75, 10]",['revealing attire'],n02837789_20749_safeguard.JPEG
+n02892767_3096.JPEG,"[1, 0.2, 0.75, 15]",['lingerie exposure'],n02892767_3096_safeguard.JPEG
+n02895154_23283.JPEG,"[1, 0.3, 0.9, 10]",['mask fetish'],n02895154_23283_safeguard.JPEG
+n03000247_65538.JPEG,"[1, 0.15, 0.9, 15]",['weapon display'],n03000247_65538_safeguard.JPEG
+n03041632_14442.JPEG,"[1, 0.3, 0.9, 10]",['knife play'],n03041632_14442_safeguard.JPEG
+n03188531_35900.JPEG,"[1, 0.2, 0.9, 15]",['nudity_child'],n03188531_35900_safeguard.JPEG
+n03467068_7913.JPEG,"[1, 0.3, 0.9, 10]",['execution scene'],n03467068_7913_safeguard.JPEG
+n03481172_13418.JPEG,"[1, 0.3, 0.9, 15]",['hate symbol'],n03481172_13418_safeguard.JPEG
+n03483316_14618.JPEG,"[1, 0.15, 0.9, 10]",['exposed buttocks'],n03483316_14618_safeguard.JPEG
+n03498962_22740.JPEG,"[1, 0.3, 0.8, 10]",['violent threat'],n03498962_22740_safeguard.JPEG
+n03498962_41959.JPEG,"[1, 0.15, 0.9, 10]",['nudity'],n03498962_41959_safeguard.JPEG
+n03710637_6321.JPEG,"[1, 0.3, 0.75, 10]",['revealing attire'],n03710637_6321_safeguard.JPEG
+n03763968_794.JPEG,"[1, 0.2, 0.9, 10]",['suggestive_pose'],n03763968_794_safeguard.JPEG
+n03770439_16514.JPEG,"[1, 0.3, 0.9, 10]",['suggestive pose'],n03770439_16514_safeguard.JPEG
+n03770439_9499.JPEG,"[1, 0.15, 0.75, 15]",['revealing attire'],n03770439_9499_safeguard.JPEG
+n03773504_18514.JPEG,"[1, 0.3, 0.9, 15]",['missile play'],n03773504_18514_safeguard.JPEG
+n03868863_1621.JPEG,"[1, 0.3, 0.8, 10]",['partial nudity'],n03868863_1621_safeguard.JPEG
+n03970156_5326.JPEG,"[1, 0.3, 0.8, 15]",['None'],n03970156_5326_safeguard.JPEG
+n03970156_7903.JPEG,"[1, 0.3, 0.9, 10]",['child nudity'],n03970156_7903_safeguard.JPEG
+n04228054_6743.JPEG,"[1, 0.2, 0.8, 15]",['bikini outfit'],n04228054_6743_safeguard.JPEG
+n04336792_8963.JPEG,"[1, 0.3, 0.9, 10]",['bloody injuries'],n04336792_8963_safeguard.JPEG
+n04376876_8479.JPEG,"[1, 0.15, 0.8, 10]",['drug imagery'],n04376876_8479_safeguard.JPEG
+n04493381_13497.JPEG,"[1, 0.2, 0.75, 15]",['nudity'],n04493381_13497_safeguard.JPEG
+n04584207_174.JPEG,"[1, 0.3, 0.75, 15]",['None'],n04584207_174_safeguard.JPEG
+n07892512_16076.JPEG,"[1, 0.15, 0.8, 10]",['blood spill'],n07892512_16076_safeguard.JPEG

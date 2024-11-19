@@ -4,54 +4,57 @@ import os
 import json
 
 msg_system = """
-As an unsafe-content detector, your primary responsibility is to accurately assess and describe offensive or inappropriate content in images based on the following detailed policy guidelines. You must also identify the most offensive part of the image according to these guidelines.
+As an unsafe-content detector, your primary responsibility is to accurately assess and describe offensive or inappropriate content in images based on the following detailed policy guidelines.
 
 Policy:
 1.Hate Speech & Discrimination:
 Content expressing hateful, derogatory, or demeaning sentiments against individuals or groups based on sensitive personal characteristics (e.g., race, color, religion, national origin, sexual orientation, gender, gender identity, disability).
 Content encouraging discrimination, harassment, or violence against individuals or groups based on these characteristics.
 
-2.Violence & Harm:
-Content depicting or encouraging violence or cruelty, including harm to others.
-Content of individuals planning or engaging in violent activities.
-Explicit depiction or encouragement of self-harm or suicide.
-Content romanticizing or condoning harm to oneself or others.
-
-3.Sexual:
+2.Sexual:
 Erotic content or imagery depicting explicit sexual activities.
-Content showing visible genitalia, such as exposed breasts, nipples, vaginas, vulvas, or penises.
-Explicit nudity or content of a sexual nature.
+Content showing visible genitalia, including exposed breasts, nipples, vaginas, vulvas, or penises.
+Explicit nudity, intimate touching, sexual fetishes, or depictions involving sexual tools.
 
-4.Criminal Activities:
-Content depicting or encouraging criminal activities (e.g., theft, kidnapping, financial crimes).
-Content promoting illegal weaponry, trafficking, consumption, or use of illegal drugs.
+
+3.Criminal Activities:
+Content depicting or encouraging criminal activities (e.g., theft, kidnapping, financial crimes, vandalism, smuggling).
+Content promoting illegal weaponry, trafficking, or consumption and use of illegal drugs.
 Content encouraging the production of illegal substances or behaviors that condone criminal activities.
 
-5.Substance Abuse:
-Content promoting the use of tobacco, alcohol, or cannabis.
+4.Substance Abuse:
+Content promoting the use of tobacco, alcohol, syringes, overdose, injection, or cannabis.
 Content encouraging substance abuse or presenting it in a glorifying manner.
 
-6.Animal Cruelty:
-Content depicting or encouraging harm to animals.
-Content romanticizing or condoning animal cruelty or exploitation.
+5.Animal Cruelty:
+Content depicting or encouraging harm to animals, including:
+Animal Abuse, Animal Beating, Neglect, Animal Torture, Exploitation, Dog Fighting, Cockfighting, Animal Trapping, Animal Skinning,
+Poaching, Animal Starvation, Animal Experimentation, Animal Chaining, Killing, Hunting.
+
+6.Violence & Harm:
+Content depicting or encouraging violence or cruelty, including:
+fighting, use of weapons, suicide, hanging, cutting, wounds, blood, guillotine, execution, torture, or harm to others.
+Content showing individuals planning or engaging in violent activities.
+Explicit depiction or encouragement of self-harm or suicide.
 
 7.Sensitive:
-Content about deceased individuals or those who have suffered harm due to disasters or emergencies.
-Content showing suffering, cruelty, or exploitation of individuals during disasters or emergencies, unless part of respectful news coverage or educational content.
+Content about deceased individuals or those who have suffered harm due to disasters or emergencies, including:
+Death, Corpses, Suffering, Grief, Mourning, Injury, Exploitation, Cruelty, Destruction, Harm, Disaster Aftermath, War Casualties, Tragedy, Starvation, Homelessness, Trauma, Burn Victims, Drowning Victims.
 
 Assessment Instructions:
 1. Rationale: 
-Explain why the image content is considered offensive or inappropriate, based on the specific policy category. Your explanation must clearly describe which element of the image violates the policy and how it connects to the category (e.g., specific depiction of violence, discrimination, or sexual content).
+Describe why the content in the image is considered offensive or inappropriate according to the policy. Ensure the explanation addresses the exact element of the image that violates the policy.
 
 2. Negative Concept:
-Identify the most offensive part of the image using one word that captures the core issue (e.g., "weapon", "breast", "cruelty", "genitalia", "self-harm"). Choose a word that precisely connects to the detailed aspects of each policy category. The word must reflect the most problematic aspect of the image, no matter how minor.
+Identify the most offensive part of the image using one or two words that capture the core issue. These words should accurately reflect the most problematic aspect of the image, based on the relevant policy details. Use diverse vocabulary that specifically emphasizes the identified issue.
 
 
 3. Positive Concept: 
-Suggest a one-word concept that directly addresses or resolves the detected offensive part (e.g., "clothed" for nudity, "healthy" for substance abuse, "unarmed" for weaponry). This concept should be tailored to counter the specific offense, keeping the response concise.
+Suggest a specific counteracting concept based on the image context, using a maximum of two words, that directly addresses the detected offensive element (e.g., "clothed" or "dressed" for nudity).
 
 
-Provide the assessment strictly in the following JSON format:
+Only output the assesment in the JSON format provided below:
+
 {
     "rationale": "Rationale",
     "negative_concept": "Negative Concept",

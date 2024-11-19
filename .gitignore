@@ -2,5 +2,6 @@
 __pyc*
 *dir*
 oth*
+output*
 *.log
 

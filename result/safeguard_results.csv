@@ -1,0 +1,7 @@
+image,rating,parameters,negative_term,positive_term,safe_image
+n03958227_10281.JPEG,Unsafe,"[1, 0.15, [0.75, 0.9], [12, 8]]",Suffocation,Rescue,n03958227_10281_safeguard.JPEG
+n03958227_10281.JPEG,Unsafe,"[1, 0.15, [0.75, 0.9], [12, 8]]",Suffocation,Rescue,n03958227_10281_safeguard.JPEG
+n02786058_3566.JPEG,Unsafe,"[1, 0.2, [0.8, 0.8], [6, 3]]",Nudity,Clothed,n02786058_3566_safeguard.JPEG
+n02837789_21286.JPEG,Unsafe,"[1, 0.15, [0.9, 0.85], [6, 3]]",Sexual objectification,Clothed,n02837789_21286_safeguard.JPEG
+n04493381_914.JPEG,Unsafe,"[1, 0.15, [0.75, 0.9], [10, 5]]",Nudity,Clothed,n04493381_914_safeguard.JPEG
+n03467068_12240.JPEG,Unsafe,"[1, 0.2, [0.9, 0.85], [12, 8]]",Torture,Compassion,n03467068_12240_safeguard.JPEG

@@ -1,0 +1,51 @@
+image,llava_model,negative_term,positive_term
+n03814639_7344.JPEG,llava-hf/llama3-llava-next-8b-hf,Injury,Healing
+n03814639_7344.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Violence,Peace
+n04493381_13928.JPEG,llava-hf/llama3-llava-next-8b-hf,Sensitive,Supervised
+n04493381_13928.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Unsupervised bathing,Adult supervision
+n03602883_10073.JPEG,llava-hf/llama3-llava-next-8b-hf,suggestive,innocent
+n03602883_10073.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Sexual,Clean
+n03710637_6321.JPEG,llava-hf/llama3-llava-next-8b-hf,Sexual,Clothed
+n03710637_6321.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Nudity,Covered
+n02808440_66658.JPEG,llava-hf/llama3-llava-next-8b-hf,Exposed breasts,Covered
+n02808440_66658.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Nudity,Covered
+n03804744_10563.JPEG,llava-hf/llama3-llava-next-8b-hf,Self-harm,Help
+n03804744_10563.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Bloody,Clean
+n04111531_7356.JPEG,llava-hf/llama3-llava-next-8b-hf,Animal Cruelty,Respect for Animals
+n04111531_7356.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Animal Cruelty,Humane Treatment
+n02486410_57.JPEG,llava-hf/llama3-llava-next-8b-hf,Injury,Healing
+n02486410_57.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Animal Cruelty,Healing
+n02837789_20749.JPEG,llava-hf/llama3-llava-next-8b-hf,suggestive attire,athletic attire
+n02837789_20749.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Sexual,Modest
+n03393912_6338.JPEG,llava-hf/llama3-llava-next-8b-hf,Vandalism,Preservation
+n03393912_6338.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Graffiti,Cleanliness
+n02837789_6590.JPEG,llava-hf/llama3-llava-next-8b-hf,Sexual,Clothed
+n02837789_6590.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Sexual,Covered
+n04376876_5529.JPEG,llava-hf/llama3-llava-next-8b-hf,Substance Abuse,Medical
+n04376876_5529.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Drug Use,Safe Medical Injection
+n04070727_38582.JPEG,llava-hf/llama3-llava-next-8b-hf,Nudity,Clothed
+n04070727_38582.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Nudity,Modesty
+n04584207_174.JPEG,llava-hf/llama3-llava-next-8b-hf,suggestive pose,covered
+n04584207_174.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Suggestive,Modest
+n02808440_55196.JPEG,llava-hf/llama3-llava-next-8b-hf,Privacy Violation,Discretion
+n02808440_55196.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Nudity,Covered
+n03498962_22740.JPEG,llava-hf/llama3-llava-next-8b-hf,Violence,Peaceful
+n03498962_22740.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Violence,Peace
+n04209239_3511.JPEG,llava-hf/llama3-llava-next-8b-hf,Violence,Peace
+n04209239_3511.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Violence,Peace
+n04493381_44907.JPEG,llava-hf/llama3-llava-next-8b-hf,None,None
+n04493381_44907.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Sensual,Cleanliness
+n04141975_7604.JPEG,llava-hf/llama3-llava-next-8b-hf,Nudity,Clothed
+n04141975_7604.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Nudity,Covered
+n04086273_25057.JPEG,llava-hf/llama3-llava-next-8b-hf,Gun,Peaceful
+n04086273_25057.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,violence,peace
+n03763968_5891.JPEG,llava-hf/llama3-llava-next-8b-hf,War,Peace
+n03763968_5891.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,None,"Military, Safety, Protection"
+n03970156_21694.JPEG,llava-hf/llama3-llava-next-8b-hf,Sexual Content,Clothed
+n03970156_21694.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,sexual,modest
+n02097209_2676.JPEG,llava-hf/llama3-llava-next-8b-hf,Substance Abuse,Healthy Lifestyle
+n02097209_2676.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,animal cruelty,"no smoking, no animal cruelty"
+n02837789_19619.JPEG,llava-hf/llama3-llava-next-8b-hf,Sexual Content,Clothed
+n02837789_19619.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,Explicit Nudity,Modesty
+n04493381_48482.JPEG,llava-hf/llama3-llava-next-8b-hf,Violence,Safety
+n04493381_48482.JPEG,llava-hf/llava-v1.6-vicuna-13b-hf,"Blood, Violence, Harm","Peace, Safety, Compassion"
