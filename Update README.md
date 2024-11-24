@@ -51,12 +51,12 @@ CUDA_VISIBLE_DEVICES=0 python3 -m sglang.launch_server --model-path AIML-TUDA/Ll
 
 5. Once the server is set up, run the safeguarding pipeline:
 ```bash
-CUDA_VISIBLE_DEVICES=1 python3 src/safeguarding_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model "llava-hf/llama3-llava-next-8b-hf"
-CUDA_VISIBLE_DEVICES=1 python3 src/safeguarding_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model "llava-hf/llava-v1.6-vicuna-13b-hf"
+CUDA_VISIBLE_DEVICES=1 python3 src/main_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model "llava-hf/llama3-llava-next-8b-hf"
+CUDA_VISIBLE_DEVICES=1 python3 src/main_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model "llava-hf/llava-v1.6-vicuna-13b-hf"
 ```
 To limit the number of images in the input directory to a specific number (e.g., 100):
 ```bash
-CUDA_VISIBLE_DEVICES=1 python src/safeguarding_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model LLAVA_MODEL_ID --num_images 100
+CUDA_VISIBLE_DEVICES=1 python src/main_pipe.py --input_dir INPUT_DIR --output_dir OUTPUT_DIR --llava_model LLAVA_MODEL_ID --num_images 100
 ```
 
 
